@@ -131,6 +131,7 @@ export const OrderButton = styled.button`
   border-radius: 10px;
   color: hsl(225, 100%, 94%);
   font-weight: 900;
+  font-size: 16px;
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.4);
   cursor: pointer;
 
