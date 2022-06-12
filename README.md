@@ -23,7 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+**Desktop:**
+
+<img width="1504" alt="Снимок экрана 2022-06-12 в 4 18 11 AM" src="https://user-images.githubusercontent.com/52038455/173211492-f510c6d0-1205-4097-ab4a-a796a8420650.png">
+
+**Mobile**
+
+<img width="358" alt="Снимок экрана 2022-06-12 в 4 19 15 AM" src="https://user-images.githubusercontent.com/52038455/173211533-7dc09e89-490e-45db-8c3a-a3089b41c135.png">
+
+
 
 
 ### Links
