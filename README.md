@@ -25,7 +25,8 @@ Users should be able to:
 
 **Desktop:**
 
-<img width="1504" alt="Снимок экрана 2022-06-12 в 4 18 11 AM" src="https://user-images.githubusercontent.com/52038455/173211492-f510c6d0-1205-4097-ab4a-a796a8420650.png">
+<img width="1512" alt="Снимок экрана 2022-06-12 в 4 19 56 AM" src="https://user-images.githubusercontent.com/52038455/173211579-08f836bf-28c1-4892-9f75-d1bb75c634ce.png">
+
 
 **Mobile**
 
